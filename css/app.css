@@ -1,0 +1,21 @@
+body
+{
+    min-width: 500px;
+}
+
+.panel-body
+{
+    padding: 0px;
+}
+
+.table
+{
+    margin-bottom: 0px;
+}
+
+.panel-body
+{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 200px;
+}
